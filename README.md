@@ -18,3 +18,4 @@ O jogo começa em uma _splash screen_ e em seguida carrega um novo tabuleiro com
 
 <img src="/screenshots/1.png" alt="first-screenshot">
 <img src="/screenshots/2.png" alt="second-screenshot">
+<img src="/screenshots/3.png" alt="third-screenshot">
